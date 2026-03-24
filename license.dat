@@ -1,0 +1,129 @@
+================================================================================
+PDF to Audiobook Converter - License and Credits
+================================================================================
+
+Project Information:
+--------------------
+Project Name: PDF to Audiobook Converter
+Author: Muhammad Usman
+Last Updated: Tuesday, 24-March-2026
+Course: 100 Days of Code - The Complete Python Pro Bootcamp
+Instructor: Angela Yu
+Course URL: https://www.udemy.com/course/100-days-of-code/learn/practice/1251140#overview
+
+This project was created as part of an assignment for Angela Yu's
+"100 Days of Code" course on Udemy.
+
+================================================================================
+Project License and Disclaimer:
+================================================================================
+
+This software is provided "as is" without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and noninfringement.
+
+The author (Muhammad Usman) is not responsible for any misuse of this software.
+
+LEGAL IMPLICATIONS AND DISCLAIMER:
+- Users are responsible for ensuring they have legal rights to convert and use
+  any PDF files processed by this application.
+- Only convert PDFs that you own or have explicit permission to use.
+- Do not distribute converted audiobooks of copyrighted material without
+  proper authorization.
+- This tool is intended for personal use only.
+- Users must respect intellectual property rights and copyright laws.
+- The author assumes no liability for any legal issues arising from the use
+  or misuse of this software.
+
+By using this software, you agree to use it responsibly and in compliance
+with all applicable laws.
+
+================================================================================
+Third-Party Libraries and Credits:
+================================================================================
+
+This project uses the following free and open source libraries:
+
+1. pypdf
+   ----------
+   Description: A pure-python PDF library capable of reading and extracting
+                text from PDF files.
+   License: BSD 3-Clause License
+   Project URL: https://github.com/py-pdf/pypdf
+   PyPI: https://pypi.org/project/pypdf/
+
+   Copyright (c) 2006-2008, Mathieu Fenniak
+   Copyright (c) 2007, Ashish Kulkarni
+   Copyright (c) 2014, Steve Witham
+
+   All rights reserved.
+
+   Redistribution and use in source and binary forms, with or without
+   modification, are permitted provided that the following conditions are met:
+
+   * Redistributions of source code must retain the above copyright notice,
+     this list of conditions and the following disclaimer.
+   * Redistributions in binary form must reproduce the above copyright notice,
+     this list of conditions and the following disclaimer in the documentation
+     and/or other materials provided with the distribution.
+   * The name of the author may not be used to endorse or promote products
+     derived from this software without specific prior written permission.
+
+
+2. pyttsx3
+   ----------
+   Description: A text-to-speech conversion library in Python. Works offline
+                and is compatible with multiple operating systems.
+   License: Mozilla Public License 2.0 (MPL-2.0)
+   Project URL: https://github.com/nateshmbhat/pyttsx3
+   PyPI: https://pypi.org/project/pyttsx3/
+
+   Copyright (c) 2019 Natesh M Bhat
+
+   This Source Code Form is subject to the terms of the Mozilla Public
+   License, v. 2.0. If a copy of the MPL was not distributed with this
+   file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+3. Python Standard Library
+   ----------
+   Description: The project also uses Python's built-in standard library
+                modules including os and sys.
+   License: Python Software Foundation License
+   URL: https://docs.python.org/3/license.html
+
+   These modules are part of the Python programming language and are free to
+   use under the PSF license.
+
+================================================================================
+Operating System Compatibility:
+================================================================================
+
+This application is designed to work on:
+- Windows 11 and above
+- Ubuntu 24.04 and above
+
+Platform-Specific Components:
+- Windows: Uses SAPI5 speech engine (built into Windows)
+- Linux: Uses eSpeak or eSpeak-NG speech engine (may require separate installation)
+
+================================================================================
+Acknowledgments:
+================================================================================
+
+Special thanks to:
+- Angela Yu for creating the "100 Days of Code" course that inspired this project
+- The pypdf development team for providing a robust PDF processing library
+- The pyttsx3 development team for creating an accessible text-to-speech library
+- The Python Software Foundation for maintaining the Python programming language
+
+================================================================================
+Contact Information:
+================================================================================
+
+For questions or issues related to this project, please refer to the
+documentation provided with this software.
+
+================================================================================
+End of License and Credits
+================================================================================

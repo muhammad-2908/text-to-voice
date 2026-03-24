@@ -1,0 +1,252 @@
+================================================================================
+IMPORTANT LEGAL DISCLAIMER AND TERMS OF USE
+================================================================================
+
+Project: PDF to Audiobook Converter
+Author: Muhammad Usman
+Last Updated: Tuesday, 24-March-2026
+Course Credit: Angela Yu - 100 Days of Code
+Course URL: https://www.udemy.com/course/100-days-of-code/learn/practice/1251140#overview
+
+================================================================================
+READ THIS BEFORE USING THE SOFTWARE
+================================================================================
+
+By using this PDF to Audiobook Converter software, you acknowledge that you
+have read, understood, and agree to the following terms and conditions.
+
+================================================================================
+GENERAL DISCLAIMER
+================================================================================
+
+This software is provided "as is" without warranty of any kind, either express
+or implied, including but not limited to:
+
+- Warranties of merchantability
+- Warranties of fitness for a particular purpose
+- Warranties of noninfringement
+- Any warranties arising from course of dealing or usage of trade
+
+The author (Muhammad Usman) makes no guarantees about the performance,
+reliability, or suitability of this software for any purpose.
+
+================================================================================
+NO LIABILITY FOR MISUSE
+================================================================================
+
+The author is NOT RESPONSIBLE for any misuse of this software.
+
+The author shall not be held liable for:
+
+- Any direct, indirect, incidental, special, or consequential damages
+- Any damages whatsoever arising from the use or inability to use this software
+- Any legal consequences resulting from misuse of this software
+- Any copyright infringement or intellectual property violations committed by users
+- Any loss of data or damages to computer systems
+- Any other damages or losses, whether foreseeable or unforeseeable
+
+================================================================================
+COPYRIGHT AND INTELLECTUAL PROPERTY RESPONSIBILITIES
+================================================================================
+
+IMPORTANT: You are solely responsible for ensuring you have the legal right
+to convert and use any PDF files with this software.
+
+LEGAL REQUIREMENTS:
+
+1. Only convert PDF files that you own or have explicit written permission to use
+
+2. Do not convert copyrighted material without proper authorization from the
+   copyright holder
+
+3. Do not distribute, share, or publish converted audiobooks of copyrighted
+   material without explicit permission
+
+4. Respect all intellectual property rights, including but not limited to
+   copyrights, trademarks, and patents
+
+5. Comply with all applicable local, state, national, and international
+   copyright laws
+
+================================================================================
+PERMITTED USE
+================================================================================
+
+This software is intended for PERSONAL USE ONLY.
+
+Acceptable uses include:
+
+- Converting your own original documents to audio format
+- Converting public domain documents
+- Converting documents for which you have obtained proper authorization
+- Educational purposes within the scope of fair use laws
+- Accessibility purposes for personal use
+
+================================================================================
+PROHIBITED USE
+================================================================================
+
+The following uses are STRICTLY PROHIBITED:
+
+- Converting copyrighted books, articles, or documents without permission
+- Commercial distribution of converted audiobooks
+- Mass conversion of copyrighted materials
+- Any use that violates copyright laws or intellectual property rights
+- Circumventing digital rights management (DRM) or security features
+- Any illegal activities
+
+================================================================================
+NO LEGAL ADVICE
+================================================================================
+
+Nothing in this software, documentation, or disclaimer constitutes legal advice.
+If you have questions about copyright law or your rights to convert specific
+documents, consult with a qualified attorney in your jurisdiction.
+
+================================================================================
+EDUCATIONAL PURPOSE
+================================================================================
+
+This software was created as part of an educational assignment for Angela Yu's
+"100 Days of Code: The Complete Python Pro Bootcamp" course on Udemy.
+
+The purpose of this project is to demonstrate Python programming skills,
+including file handling, text processing, and integration with third-party
+libraries.
+
+This is an educational project and should be treated as such.
+
+================================================================================
+TECHNICAL LIMITATIONS
+================================================================================
+
+Users should be aware of the following technical limitations:
+
+- The software only works with text-based PDF files
+- Encrypted or password-protected PDFs cannot be processed
+- Image-based or scanned PDFs will not work without OCR preprocessing
+- The quality of text-to-speech output depends on system capabilities
+- The software may not preserve formatting, tables, or special characters
+- Large files may require significant processing time and system resources
+
+================================================================================
+NO SUPPORT OBLIGATION
+================================================================================
+
+The author is under no obligation to provide:
+
+- Technical support or assistance
+- Updates or bug fixes
+- Feature enhancements
+- Documentation beyond what is provided
+- Any form of maintenance or continued development
+
+================================================================================
+SYSTEM SECURITY
+================================================================================
+
+Users are responsible for:
+
+- Ensuring their system security before running this software
+- Scanning files for malware or viruses
+- Maintaining backups of important data
+- Understanding the risks of running third-party software
+
+================================================================================
+DATA PRIVACY
+================================================================================
+
+This software:
+
+- Does not collect any personal information
+- Does not transmit data over the internet
+- Does not store or log user activities
+- Operates entirely offline on your local system
+
+However, users are responsible for:
+
+- Protecting their own sensitive documents
+- Ensuring they do not process confidential information inappropriately
+- Maintaining the security of their converted audio files
+
+================================================================================
+THIRD-PARTY LIBRARIES
+================================================================================
+
+This software uses third-party open source libraries (pypdf and pyttsx3).
+These libraries are subject to their own licenses and terms of use.
+
+The author of this software is not responsible for:
+
+- The functionality of third-party libraries
+- Security vulnerabilities in third-party libraries
+- Licensing compliance for third-party libraries (users must comply independently)
+
+Please refer to the license.dat file for complete third-party library information.
+
+================================================================================
+MODIFICATION AND REDISTRIBUTION
+================================================================================
+
+If you modify or redistribute this software:
+
+- You must retain all copyright notices and disclaimers
+- You must clearly indicate what changes were made
+- You assume all responsibility for your modifications
+- The original author bears no responsibility for modified versions
+
+================================================================================
+TERMINATION OF USE
+================================================================================
+
+Your right to use this software automatically terminates if you:
+
+- Violate any terms of this disclaimer
+- Use the software for illegal purposes
+- Violate copyright or intellectual property laws
+
+================================================================================
+JURISDICTION AND APPLICABLE LAW
+================================================================================
+
+This software and disclaimer are subject to the laws of the jurisdiction where
+you use the software. Users are responsible for compliance with all applicable
+local laws.
+
+================================================================================
+SEVERABILITY
+================================================================================
+
+If any provision of this disclaimer is found to be unenforceable or invalid,
+that provision shall be limited or eliminated to the minimum extent necessary
+so that the remainder of this disclaimer shall remain in full force and effect.
+
+================================================================================
+ACKNOWLEDGMENT
+================================================================================
+
+BY USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT:
+
+1. You have read and understood this entire disclaimer
+2. You agree to all terms and conditions stated herein
+3. You accept full responsibility for your use of the software
+4. You will use the software only for lawful purposes
+5. You will respect all copyright and intellectual property rights
+6. You release the author from any and all liability
+
+================================================================================
+CONTACT AND QUESTIONS
+================================================================================
+
+If you have any doubts about whether your intended use of this software is
+legal or appropriate, DO NOT USE THE SOFTWARE until you have obtained proper
+legal advice.
+
+================================================================================
+
+Last Updated: Tuesday, 24-March-2026
+Author: Muhammad Usman
+
+================================================================================
+END OF DISCLAIMER
+================================================================================

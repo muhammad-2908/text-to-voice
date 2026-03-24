@@ -1,0 +1,30 @@
+# PDF to Audiobook Converter - Required Python Libraries
+# Author: Muhammad Usman
+# Last Updated: Tuesday, 24-March-2026
+# Course Credit: Angela Yu - 100 Days of Code
+# Course URL: https://www.udemy.com/course/100-days-of-code/learn/practice/1251140#overview
+
+# pypdf - Used to read and extract text from PDF files
+# This is a free and open source library for working with PDF files
+# Compatible with Windows 11+ and Ubuntu 24.04+
+pypdf>=3.17.0
+
+# pyttsx3 - Used to convert text to speech
+# This library works offline and does not require internet connection
+# It uses the native speech engines available on your operating system
+# Compatible with Windows 11+ and Ubuntu 24.04+
+pyttsx3>=2.90
+
+# Additional dependency for pyttsx3 on Linux systems
+# pyobjc is only needed on macOS, so it is not included here
+# On Windows, pyttsx3 uses SAPI5
+# On Linux, pyttsx3 uses espeak or espeak-ng
+
+# Note for Linux users (Ubuntu 24.04+):
+# You may need to install espeak separately using:
+# sudo apt-get update
+# sudo apt-get install espeak espeak-ng
+
+# Note for Windows users (Windows 11+):
+# All required speech engines are built into Windows
+# No additional installation needed
